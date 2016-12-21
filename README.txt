@@ -1,5 +1,4 @@
-hi
-this my new repo
-
+ahh..
+pokemon
 
 will this work ?
